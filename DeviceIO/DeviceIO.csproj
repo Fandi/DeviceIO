@@ -37,9 +37,7 @@
   <ItemGroup>
     <Compile Include="Compatibility\IReadOnlyCollection.cs" />
     <Compile Include="IDevice.cs" />
-    <Compile Include="IDeviceInputManager.cs" />
     <Compile Include="IDeviceManager.cs" />
-    <Compile Include="IDeviceOutputManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
